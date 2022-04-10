@@ -1,0 +1,10 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "twig": "html"
+    },
+    "editor.tabSize": 2,
+    "telemetry.telemetryLevel": "off",
+    "python.defaultInterpreterPath": "${env:HOME}/workspace/python-amazon-scraper/env/bin/python",
+    "window.zoomLevel": 1
+}
